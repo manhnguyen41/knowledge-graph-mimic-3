@@ -1,1 +1,1 @@
-# knowledge-graph-mimic-3
+# Data -> Table folder -> Code to handle table
